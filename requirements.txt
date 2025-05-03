@@ -1,0 +1,42 @@
+# core
+aiogram==3.4.1
+python-dotenv==1.0.1
+pydantic==2.5.3
+pydantic_core==2.14.6
+typing_extensions==4.13.2
+annotated-types==0.7.0
+attrs==25.3.0
+magic-filter==1.0.12
+
+# async deps
+aiohttp==3.9.5
+aiofiles==23.2.1
+aiosignal==1.3.2
+async-timeout==4.0.3
+anyio==4.9.0
+httpcore==1.0.8
+httpx==0.28.1
+sniffio==1.3.1
+
+# openai + генерация
+openai==1.68.2
+jiter==0.9.0
+
+# мультимедиа и генерация видео
+pillow==10.3.0
+imageio-ffmpeg==0.4.9
+pydub==0.25.1
+numpy==2.2.5
+
+# системные утилиты
+certifi==2025.1.31
+frozenlist==1.6.0
+idna==3.10
+distro==1.9.0
+tqdm==4.67.1
+exceptiongroup==1.2.2
+
+# локальные кеши и утилиты
+propcache==0.3.1
+multidict==6.4.3
+yarl==1.20.0
